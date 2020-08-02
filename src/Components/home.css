@@ -1,0 +1,21 @@
+.img{
+    display: block;
+    max-width:330px;
+    max-height:395px;
+    width: auto;
+    height: auto;
+}
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 550px;
+  }
+  
+  .each-slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
