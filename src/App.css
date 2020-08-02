@@ -3,6 +3,8 @@
   font-size: 30px;
   padding: 10px 70px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 4vw;
+  font-size: 4vh;
 
 }
 .link:hover{
@@ -12,9 +14,12 @@
   position: relative;
   overflow: hidden;
   text-align: center;
+  font-size: 4vw;
+  font-size: 4vh;
 }
 .head{
   color: rosybrown;
+  display: flex;
   font-size: 60px;
   display: block;
   padding: 18px;
